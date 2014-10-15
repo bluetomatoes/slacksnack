@@ -1,0 +1,15 @@
+{
+  "name": "slacksnack",
+  "version": "1.0.0",
+  "description": "Sign up for snack on slack. Simple as that.",
+  "main": "app.js",
+  "dependencies": {
+    "googleapis": "^1.0.17"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matthew Mellea",
+  "license": "MIT"
+}
